@@ -1,8 +1,9 @@
 name: Run Python Test
 
 on:
+  push:
   schedule:
-    -cron '20 14 * * *'
+    - cron: '23 14 * * *'
 
 jobs:
   tests:
