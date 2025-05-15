@@ -1,1 +1,1 @@
-print("✅ Działa GitHub Actions!")
+print("Działa GitHub Actions!")
